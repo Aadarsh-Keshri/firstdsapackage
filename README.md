@@ -1,4 +1,4 @@
-#Examples on how to use this package
+# Examples on how to use this package
 
 ```
 const dsa = require('firstdsapackage');
